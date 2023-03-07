@@ -1,0 +1,36 @@
+htlm{
+    width: 100%;
+    margin : 0;
+    padding: 0;
+
+}
+.title{
+    background-image: url("image/couverture.jpg");
+    height: 100vh;
+}
+
+
+.bg-fonce{
+    background-color:rgb(19, 70, 17)!important ;
+    color : rgb(19, 70, 17);
+    color : rgb(62, 137, 20);
+    color : rgb(61, 163, 93);
+    color : rgb(150, 224, 114);
+    color : rgb(232, 252, 207);
+    color:inherit;
+}
+.bg-claire{
+    background-color: rgb(150, 224, 114)!important ;
+}
+.fonce{
+    color : rgb(19, 70, 17)!important ;
+}
+.claire{
+    color :  rgb(150, 224, 114)!important ;
+}
+body{
+    background-image: url("image/mure.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
