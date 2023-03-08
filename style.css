@@ -2,8 +2,6 @@ body, html{
     width: 100vw;
     margin : 0;
     padding: 0;
-    overflow: hidden;
-
 }
 .title{
     background-image: url("image/couverture.jpg");
