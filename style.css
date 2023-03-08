@@ -1,5 +1,5 @@
-htlm{
-    width: 100%;
+body, html{
+    width: 100vw;
     margin : 0;
     padding: 0;
     overflow: hidden;
@@ -30,7 +30,7 @@ htlm{
     color :  rgb(150, 224, 114)!important ;
 }
 body{
-    background-image: url("image/mure.jpg");
+    background-image: url("image/fond_ecran.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 
