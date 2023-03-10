@@ -33,3 +33,19 @@ body{
     background-attachment: fixed;
 
 }
+
+
+.carousel{
+   display: block;
+}
+.file{
+    display: none;
+}
+@media (max-width: 500px ){
+    .carousel {
+      display: none;
+    }
+    .file{
+        display: block;
+    }
+}
