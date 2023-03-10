@@ -49,3 +49,10 @@ body{
         display: block;
     }
 }
+
+@media (min-width: 800px ) {
+    article, main{
+        padding-left:10%;
+        padding-right:10%;
+    }
+}
